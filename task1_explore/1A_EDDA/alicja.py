@@ -16,7 +16,7 @@ or in general), make sure you write it down if you find something worth mentioni
 port the figures, discuss what is in them. What meaning do those bars, lines, dots, etc.
 convey? Please select essential and interesting plots for discussion, as you have limited
 space for reporting your findings (see details in a later section).
-To sum up, you will need to explore the dataset, and report findings that are essential to get
+To sum up, you will need to task1_explore the dataset, and report findings that are essential to get
 an idea about the data, and also, findings that make it possible to learn something interesting
 about the dataset.
 """
